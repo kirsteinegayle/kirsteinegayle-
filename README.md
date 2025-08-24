@@ -7,7 +7,7 @@
 🎓 2nd Year BS Information Technology Student at Laguna State Polytechnic University
 
 
-🌱 Currently enhancing my knowledge in Python since my only background in programming was in first year college. I have experience with python and c#, basic codes.
+🌱 Currently enhancing my knowledge in Python since my only background in programming was in first year college.
 
 
 🎯 Goal: To broaden my coding skills, especially in Python and other programming concepts 
@@ -17,7 +17,7 @@
 
 
 🛠 Skills 
- Languages: Python (beginner–intermediate)
+ Languages: Python and C# (beginner)
 Other Skills: Video Editing, UI/UX Design Concepts 
 
 
