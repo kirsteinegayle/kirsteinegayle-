@@ -7,10 +7,13 @@
 🎓 2nd Year BS Information Technology Student at Laguna State Polytechnic University
 
 
-🌱 Currently enhancing my knowledge in Python since my only background in programming was in first year college
+🌱 Currently enhancing my knowledge in Python since my only background in programming was in first year college. I have experience with python and c#, basic codes.
 
 
-🎯 Goal: To broaden my coding skills, especially in Python and other programming concepts 🎨 Interested in UI/UX Design and passionate about creative problem-solving 
+🎯 Goal: To broaden my coding skills, especially in Python and other programming concepts 
+
+
+🎨 Interested in UI/UX Design and passionate about creative problem-solving 
 
 
 🛠 Skills 
